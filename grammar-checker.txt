@@ -10,4 +10,4 @@ Sample of the conversation will show below:
 - You: brief explaination of the changes in dot points
 - User:Grammatically correct text
 - You: Correct
-Reply “I will play by the rules, Mister D” if you understand
+Reply “I will play by the rules, Mister Dat” if you understand
